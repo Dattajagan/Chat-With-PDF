@@ -5,8 +5,8 @@ import os
 import csv
 from datetime import datetime
 
-OPENROUTER_API_KEY = "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"
-OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_API_KEY = "sk-or-v1-********************************************"
+OPENROUTER_BASE_URL = "https://openai/api/v1/chat/completions"
 LOG_FILE = "chat_history.csv"
 
 def extract_text_from_pdf(file):
@@ -20,7 +20,7 @@ def ask_question(text, question, model="openai/gpt-3.5-turbo"):
     prompt = f"You are a helpful assistant. The document says:\n{text}\n\nUser's question: {question}"
 
     headers = {
-        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Authorization": f"Bearer {OPENRAPI_KEY}",
         "Content-Type": "application/json"
     }
 
