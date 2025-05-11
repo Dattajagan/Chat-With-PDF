@@ -1,0 +1,29 @@
+Timestamp,PDF Name,User Question,AI Answer
+2025-05-11 11:15:40,Abstract.pdf,What is cloud,"Cloud computing refers to the delivery of computing services over the internet (""the cloud"") to provide on-demand resources such as processing power, storage, and applications. Instead of storing and processing data on local servers or personal devices, cloud computing allows users to access shared resources and services through the internet. This technology enables users to leverage the infrastructure, platforms, and software provided by cloud service providers on a pay-as-you-go basis, offering scalability, flexibility, cost-effectiveness, and ease of access. Organizations and individuals can use cloud computing for various purposes, including data storage, hosting websites, running applications, conducting analytics, and more."
+2025-05-11 11:16:28,Vaishu___Resume (1).pdf,What is cloud,"Cloud computing refers to the delivery of computing services such as servers, storage, databases, networking, software, analytics, and more over the internet (the cloud) to offer faster innovation, flexible resources, and economies of scale. Instead of owning physical data centers and servers, individuals or organizations can access technology services on an as-needed basis from a cloud provider.
+
+Some common features and benefits of cloud computing include:
+
+1. **Scalability**: Users can easily scale up or down their computing resources based on requirements.
+  
+2. **Pay as you go**: Cloud computing services often operate on a pay-as-you-go model, allowing users to pay for only what they use.
+
+3. **Flexibility**: Cloud services offer flexibility in terms of storage, processing power, and more, which can be adjusted based on needs.
+
+4. **Accessibility**: Users can access cloud services from anywhere with an internet connection using a variety of devices.
+
+5. **Resource pooling**: Cloud providers often pool resources across multiple users, allowing for more efficient use of resources.
+
+There are various types of cloud services, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Popular cloud service providers include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform."
+2025-05-11 11:16:43,Vaishu___Resume (1).pdf,What is DBMS,"DBMS stands for Database Management System. It is software that allows users to create, update, and manage databases efficiently. DBMS provides an interface for users to interact with the database, stores and retrieves data in a structured way, ensures data integrity, and enables various operations such as querying, updating, and deleting data. It helps in organizing and managing large amounts of data effectively."
+2025-05-11 11:37:48,Datta_Resume.pdf,Tell about this,"The document provides a detailed overview of Penumudi Datta Jagan Mohan's professional profile. He is an IT professional with a focus on web development and experience in building scalable applications using Java, Python, and cloud platforms like AWS and Azure. His educational background includes pursuing Information Technology at the Institute Of Aeronautical Engineering with a GPA of 8.0.
+
+He has participated in various programs like the Internshala Student Partner Program and served as a Campus Ambassador for Wayspire, where he promoted their services and engaged with students. 
+
+In terms of projects, he has worked on innovative projects such as ""Harmonizing Emotions and Climate using Music Personalization,"" ""TODO Application,"" and ""Auto WhatsApp Messenger."" These projects demonstrate his skills in utilizing technologies like Python, TensorFlow, Keras, Java, SQL, HTML, and CSS to develop practical applications.
+
+Jagan Mohan's technical skills span programming languages like Java, Python, and C, as well as expertise in web development tools like HTML, CSS, and JavaScript. His database skills include SQL and MYSQL, and he has completed coursework in relevant subjects like OOPS (Object-Oriented Programming), DBMS (Database Management Systems), and more.
+
+Furthermore, he has obtained certificates from various institutions and organizations, including Woosong University, Google Developers (AI-ML), Palo Alto (Cybersecurity), and AWS Academy, showcasing his commitment to continuous learning and skill development.
+
+In the realm of coding, he has actively participated in platforms such as LeetCode, CodeChef, HackerRank, and GeeksForGeeks, further demonstrating his dedication to enhancing his coding abilities. Jagan Mohan is interested in areas like web development, cloud computing, and software development, which align with his professional aspirations and expertise."
