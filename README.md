@@ -50,8 +50,6 @@ pip install -r requirements.txt
 3. Set Up API Key
 Create a .env file in the root directory with the following:
 
-ini
-
 OPENROUTER_API_KEY=your_openrouter_api_key
 4. Run the Application
 streamlit run app.py
