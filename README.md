@@ -45,26 +45,18 @@
 git clone https://github.com/Dattajagan/Chat-With-PDF.git
 cd Chat-With-PDF
 2. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 3. Set Up API Key
 Create a .env file in the root directory with the following:
 
 ini
-Copy
-Edit
+
 OPENROUTER_API_KEY=your_openrouter_api_key
 4. Run the Application
-bash
-Copy
-Edit
 streamlit run app.py
 🗂️ Project Structure
-bash
-Copy
-Edit
+
 Chat-With-PDF/
 ├── app.py              # Main Streamlit app logic
 ├── .env                # API Key (excluded from Git)
